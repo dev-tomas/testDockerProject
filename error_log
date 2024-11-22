@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+[11-Apr-2023 16:28:45 America/Lima] PHP Fatal error:  Cannot declare class AddNewColumnsToReferenceGuidesTable, because the name is already in use in /home/nov10bau/public_html/pruebas/database/migrations/2023_04_10_201737_add_new_columns_to_reference_guides_table.php on line 7
+=======
+[04-Jul-2023 14:13:36 America/Lima] PHP Fatal error:  Cannot declare class Util, because the name is already in use in /home/nov10bau/public_html/test/config/util.php on line 22
+>>>>>>> 59f5c4c66d00e1d1d2753e6d567caa8b082f266a

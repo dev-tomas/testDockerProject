@@ -1,0 +1,175 @@
+Contacto WhatsApp +51946224629
+
+SISTEMA ERP
+
+*CAJA*
+Ventas en salón, mostrador, delivery telefónico y web
+Adición manual, con dispositivos móviles, teclados y monitores touch screen
+Estado de mesas y pedidos
+Registro de reservas telefónicas y online
+Control por producto consumido
+Optimización de repartos de delivery
+
+*MESAS*
+Gestion de mesas
+Gestion de Salones
+Agrupacion de mesas
+
+
+*COMPRAS Y PRDUCTOS PUNTOS DE VENTA*
+Categoria de Productos
+Productos de venta
+Secciones de Menus y Compra
+Productos Directos
+Grupo de Categoria
+Rendición de caja
+Organización de conceptos de caja
+Visualización de caja en tiempo real de adición
+Gestión de caja mayor
+
+*PRODUCTOS DE COMPRA Y STOCK*
+Familia de compra
+producto de compra
+composicion y recetas de productos
+gestion de proveedores
+suministro de proveedores
+Estado de depósitos e inventarios
+Seguimiento de insumos
+Control de costos por recetas
+Stock mínimo y máximo
+
+*PERSONAL*
+Gestion de Usuarios (mozos)
+Entrada y salida del personal
+Planillas por empleado
+Asiento de las liquidaciones, adelantos y descuentos
+Jerarquización de empleados
+Agenda, eventos, cumpleaños, etc.
+
+*MARKETING*
+Gestion de cliente
+Conocimiento sobre preferencias y costumbres del cliente
+Zonas de influencia del negocio
+Herramientas de análisis y fidelización
+Reportes y listados de seguimiento
+
+*INFORMES*
+Gráficos y análisis estadísticos
+Análisis de facturación por día, hora, mozo, forma de cobro, artículos, sucursal
+Compras y gastos realizados
+Ventas por cliente
+Contros de Horarios
+Movimientos de caja
+Incidencias de tickts
+Balances económicos y financieros
+Informes subdiarios IGV compras e IGV ventas
+Evolución de gestión anual
+Auditorías sobre empleados y mercaderia
+Incidencias del stock en facturación
+Ranking de artículos más vendidos y más consumido
+Informes Totalizados y Segmentados por areas
+
+*CONFIGUARACION*
+Ordenar Botones
+Gestion de cocina
+Forma de pagp
+Gestion en series
+Pantalla ordeman
+Sicronizar en red
+Impresoras
+Copias de seguridad
+Configurar Opciones
+Claves y Usuarios
+Permisos para usuarios
+
+
+*EXTRAS*
+Manual
+Cerrar
+
+________________________________________________________
+
+Gestiona tu negocio desde cualquier lugar
+Puede ser utilizado en simultáneo en distintos equipos, 
+en distintos lugares, para visualizar movimientos en tiempo real, 
+ya sea desde una computadora o desde un dispositivo móvil.
+
+
+//////  QUEREMOS QUE ASI SEA_____  
+
+El unico sistema con instalacion facil y sencilla
+La implementación es inmediata, no depende de la instalación de un software pesado. Al ingresar al sistema están todas las funcionalidades disponibles.
+
+Interfaz simple y fácil de manejar
+El manejo simple e intuitivo, no requiere prácticamente capacitación del personal. Optimiza el trabajo en el negocio.
+
+Es seguro
+El resguardo de la información está asegurado. Contamos con un servidor con nivel de seguridad bancario y certificados de seguridad SSL 
+para asegurar el tráfico de datos.
+
+Constante mejora
+El sistema está en constante desarrollo, las actualizaciones se realizan en el servidor y quedan automáticamente disponibles al clientes. 
+No requiere mantenimiento, el cliente solo se ocupa de utilizar el sistema y registrar sus movimientos.
+
+Costos
+Es un sistema de costo accesible. El cliente tiene la opción de eligir su abono y pagar solo por lo que utiliza. A futuro tendremos herramientas 
+disponibles para agregar a tu perfil cuando lo consideres necesario con un costo individual por herramienta.
+
+
+*Muy simple*
+instalacion facil y rapida.
+La implementación del sistema es inmediata.
+Las actualizaciones son automáticas y sin costo adicional.
+Puede utilizarse en cualquier tipo de computadora con acceso a Internet.
+Puedes consultar el estado de tu negocio en cualquier momento desde cualquier lugar.
+Disponible las 24hs los 365 días del año.
+
+*Incluye aplicaciones móviles*
+Descarga de Play Store las aplicaciones.
+Aplicación para adicionar desde tablets.
+Innova y diferencia tu negocio.
+
+
+
+Detalles de las características del sistema
+
+*Mesas y consumos*
+Controla la ocupación de tus mesas fácilmente, incluso con múltiples salones.
+Adiciona rápidamente los consumos más comunes.
+Imprime comandas y controles de mesa.
+
+*Registro de ventas e indicadores*
+Controla tus ventas por fechas o rangos, cliente o medios de pago.
+Analiza indicadores de volumen, ticket promedio y totales.
+Maneja cuentas corrientes y arqueos de caja.
+Exporta listados en formato Excel.
+
+*Base de datos de productos, precios y control de stock*
+Administra tus productos y ordenalos por categorías con facilidad.
+Genera un listado de ingredientes que compongan recetas.
+Lleva un preciso control de stock.
+
+*Control de gastos*
+Registra todos los gastos de tu negocio.
+Revisa históricos con filtros por fechas, rangos y proveedor.
+Aumenta el stock de productos al registrar compra de mercaderías.
+Exporta listados en formato Excel.
+
+*Configuración y personalización del sistema*
+Configura tus salones, mesas, camareros, clientes, proveedores.
+Configura tus impresoras.
+Usa la función Múltiples Cocinas, para el uso de múltiples impresoras.
+
+*Aplicaciones móviles*
+Descarga las aplicaciones disponibles en Play Store.
+Adiciona con tablets y optimiza el servicio.
+Diferencia tu negocio.
+
+*Seguridad de la información*
+Contamos con certificados de seguridad SSL que garantizan la autenticidad.
+Utilizamos el mismo nivel de seguridad que un banco que opera en Internet.
+Realizamos backups automáticos, y transmisiones encriptadas.
+Con Fudo tienes asegurada tu información.
+
+
++51 946 224 629

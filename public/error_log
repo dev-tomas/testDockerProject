@@ -1,0 +1,1 @@
+[15-Feb-2020 18:14:03 America/Lima] PHP Fatal error:  Method Illuminate\View\View::__toString() must not throw an exception, caught ErrorException: A non-numeric value encountered (View: /home/femasapp/public_html/resources/views/commercial/sale/ticket.blade.php) in /home/femasapp/public_html/vendor/dompdf/dompdf/src/Dompdf.php on line 429

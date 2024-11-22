@@ -1,0 +1,20 @@
+.blue {
+  color: #4bcec8;
+}
+.nav-link {
+  font: normal 600 11px "Open Sans","Open Sans","Arial",sans-serif;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-size: 11px;
+  line-height: 24px;
+  font-family: "Open Sans", "Open Sans", Arial, sans-serif;
+  color: #8d8d8d;
+  line-height: 24px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}

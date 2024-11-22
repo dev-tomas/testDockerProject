@@ -1,0 +1,296 @@
+:root {
+    --black: #080808;
+    --gray: #838383;
+    --green: #A3C318;
+}
+
+.az-sidebar-loggedin .media-body h6,
+.az-sidebar-body .nav-link,
+.az-sidebar-body .nav-sub-link {
+    color: #fff !important;
+}
+
+.az-sidebar-loggedin .media-body span,
+.az-sidebar-body .nav-label {
+    color:  var(--green);
+}
+
+.az-sidebar-body .nav-item.active .nav-link {
+    color: var(--green) !important;
+}
+
+.az-sidebar-loggedin .az-img-user {
+    background: #fff;
+}
+
+.az-header {
+    background: #545454;
+}
+
+.az-header-menu-icon span,
+.az-header-menu-icon span::before, .az-header-menu-icon span::after {
+    background: var(--green);
+}
+
+.modelabelProduction {
+    background: #239B56;
+    line-height: 39px;
+    display: block;
+    width: 170px;
+    text-align: center;
+    border-radius: 5px;
+    user-select: none;
+    color: #fff;
+    /* box-shadow: 0 5px 10px #239B56; */
+}
+
+.modelabelProduction.danger {
+    background: #E74C3C;
+    /* box-shadow: 0 5px 10px #FADBD8; */
+}
+
+.btn-redondos-dt {
+    padding: 0 8px !important;
+    border-radius: 50% !important;
+}
+
+.btn-redondos {
+    border-radius: 50% !important;
+    width: 33px !important;
+    height: 33px !important;
+    padding: 0;
+    text-align: center;
+}
+
+.access-direct {
+    margin-bottom: 2em;
+    margin-right: 15px;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 10px;
+    background: var(--gray);
+    transition: .2s all;
+}
+
+.access-direct a {
+    text-align: center !important;
+    display: block !important;
+    font-size: 1em !important;
+    color: #fff;
+}
+
+.access-direct a img {
+    height: 50px;
+    width: 50px;
+    margin: .3em auto;
+    display: block;
+    font-size: 3em !important;
+    text-align: center;
+}
+
+.btninfo:active {
+    outline: none !important;
+}
+
+.access-direct:hover {
+    border-radius: 10px;
+    background: #303030;
+    box-shadow: 0 5px 10px #C6C6C6;
+}
+
+.pos-product {
+    width: 145px;
+    height: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+.pos-product-btn {
+    border-radius: 5px;
+    width: 120px;
+    height: 150px;
+    border: 1px solid var(--green);
+    text-align: center;
+}
+
+.pos-product-btn:hover {
+    background: var(--green);
+    color: #fff;
+}
+
+.pos-product-btn:active {
+    outline: none;
+    border: none;
+}
+
+/***
+ * FORM CONTROL CUSTOM
+*/
+
+.form-control-custom {
+    display: block;
+    width: 100%;
+    height: 25px;
+    padding: .375rem .55rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #596882;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #cdd4e0;
+    border-radius: 3px;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
+}
+
+.form-control-custom::-ms-expand {
+    background-color: transparent;
+    border: 0
+}
+
+.form-control-custom:focus {
+    color: #596882;
+    background-color: #fff;
+    border-color: #b3c6ff;
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(51, 102, 255, .25)
+}
+
+.form-control-custom::placeholder {
+    color: #7987a1;
+    opacity: 1
+}
+
+.form-control-custom:disabled,
+.form-control-custom[readonly] {
+    background-color: #e3e7ed;
+    opacity: 1
+}
+
+.btn.btn-custom {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    height: 25px !important;
+    line-height: 25px !important;
+}
+
+.datepicker-days table tbody tr .disabled {
+    cursor: not-allowed !important;
+}
+
+.pcont {
+    height: 498px !important;
+    overflow-y: auto;
+}
+
+.payment {
+    position: relative;
+}
+
+.remove-payment {
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+
+.remove-payment button {
+    border: none;
+    background: transparent;
+}
+
+.remove-payment button:active {
+    border: none;
+    outline: transparent;
+}
+
+.remove-payment button i {
+    font-size: 1.2em;
+}
+
+.quick-cash {
+    position: relative;
+}
+
+.quick-cash .bage {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 22px;
+    height: 15px;
+    color: #000;
+    font-size: 12px;
+    background: #fff;
+}
+
+/***
+ * BUTTONS CUSTOMS
+ */
+
+.btn-primary-custom {
+    background: var(--black) !important;
+    border-radius: 5px !important;
+    box-shadow: 0 5px 10px --gray;
+    color: #fff
+}
+
+.btn-secondary-custom {
+    background: var(--green) !important;
+    color: #fff;
+    border-radius: 5px !important;
+    /* box-shadow: 0 3px 9px #D3DDA8; */
+}
+
+.btn-dark-custom {
+    background: #303030 !important;
+    border-radius: 5px !important;
+    /* box-shadow: 0 5px 10px #C6C6C6; */
+    color: #fff;
+}
+
+.btn-success-custom {
+    background: #52BE80 !important;
+    border-radius: 5px !important;
+    /* box-shadow: 0 5px 10px #D4EFDF; */
+    color: #fff;
+}
+
+.btn-warning-custom {
+    background: #F4D03F !important;
+    border-radius: 5px !important;
+    /* box-shadow: 0 5px 10px #FCF3CF; */
+}
+
+.btn-gray-custom {
+    background: #95A5A6 !important;
+    border-radius: 5px !important;
+    /* box-shadow: 0 5px 10px #D5DBDB; */
+    color: #fff;
+}
+
+.btn-danger-custom {
+    background: #C0392B !important;
+    color: #fff;
+    border-radius: 5px !important;
+    /* box-shadow: 0 3px 9px #F2D7D5; */
+}
+
+.btn-secondary-custom:hover,
+.btn-dark-custom:hover,
+.btn-primary-custom:hover,
+.btn-success-custom:hover,
+.btn-gray-custom:hover,
+.btn-danger-custom:hover {
+    color: #fff;
+}
+
+.bg-green-custom,
+.badge-success {
+    background: var(--green);
+}
+
+/***
+ * FORM CONTROL CUSTOM
+ */
+
+/* input.form-control, select.form-control {border-radius: 5px !important;} */
